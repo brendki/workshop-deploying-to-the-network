@@ -1,0 +1,18 @@
+{
+    "title": "Deploying to the network",
+    "version": "1.0.0",
+    "icon": "/test/icon.svg",
+    "chat": "https://gitter.im/ethereum/play",
+    "lessons": [{
+      "lesson": "https://www.youtube.com/watch?v=nnVX6fQUu4o",
+      "tool": "https://coursetro.com/posts/code/103/Solidity-Inheritance-and-Deploying-an-Ethereum-Smart-Contract",
+      "info": "./solidity-types.md"
+    }],
+      "needs": [
+        "https://github.com/ffakk/workshop-solidity-events/workshop.json"
+        "https://github.com/ffakk/workshop-functions-modifiers/workshop.json"
+    ],
+    "unlocks": [
+      ""
+    ]
+  }
